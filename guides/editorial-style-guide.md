@@ -19,8 +19,8 @@ Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly w
 - **Write ‘Base’**, not BASE, Base Chain, $BASE, or Base Network
 - **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
 - **Use technical terms sparingly**, and when you do, work to explain them in full
-- **Use ETH demonination, not USD when referring to prices**, to emphasize the global economy
-- **Have your brand supercede Base** (BRAND x Base, not Base x BRAND) in text and or logos
+- **Use ETH denomination, not USD when referring to prices**, to emphasize the global economy
+- **Have your brand supersede Base** (BRAND x Base, not Base x BRAND) in text and or logos
 
 ## Writing Guidelines
 
