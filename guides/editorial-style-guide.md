@@ -8,7 +8,7 @@ This is the Base Editorial Style Guide, which exists to:
 
 ## Why use the style guide?
 
-If you use the style guide, you'll help us tell the Base story in a consistent way. And you'll be more likely to get amplification from the Base core team and other members of the Base ecosystem.
+If you use the style guide, you'll help us tell the Base story consistently. You'll also be more likely to get amplification from the Base core team and other members of the Base ecosystem.
 
 ## About Base
 
@@ -19,7 +19,8 @@ Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly w
 - **Write ‘Base’**, not BASE, Base Chain, $BASE, or Base Network
 - **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
 - **Use technical terms sparingly**, and when you do, work to explain them in full
-- **Use ETH denomination, not USD when referring to prices**, to emphasize the global economy
+**Use ETH denomination, not USD when referring to prices**, to emphasize the global economy.
+**Have your brand supersede Base** (BRAND x Base, not Base x BRAND) in text and or logos.
 
 ## Writing Guidelines
 
@@ -29,7 +30,7 @@ Base has a grand vision to bring a billion people onchain and a mission to build
 
 **Highlight progress and what’s next**
 
-When discussing Base's ongoing developments, celebrate recent milestones and accomplishments. Outline the key priorities and initiatives planned for the current or upcoming period, grounding them in Base's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
+When discussing Base's ongoing developments, celebrate recent milestones and accomplishments. Outline the priorities and initiatives planned for the current or upcoming period, grounding them in Base's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
 
 **Focus on concrete examples over abstract concepts**
 
@@ -45,7 +46,7 @@ Base exists to empower those building a decentralized future, and building can b
 
 **Be a bridge**
 
-Don't assume reader familiarity with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
+Don't assume the reader is familiar with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
 
 ## Tone and Voice
 
@@ -82,6 +83,21 @@ Here’s an example of writing that feels appropriate in both tone and voice:
 - [Tone in Writing: A Simple Guide](https://jerryjenkins.com/tone-in-writing/) - ”**…voice is _what_ you say, and tone is _how_ you say it.**”
 - [A Word About Style, Voice, and Tone](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter3/ch3-21.html) - “When you hear an author talking inside your head, “voice” is what that author sounds like. \[…] You can develop your own voice in your writing by paying special attention to rhythm, diction, and punctuation.”
 - [Point of View](https://www.merriam-webster.com/words-at-play/point-of-view-first-second-third-person-difference) - First, second, or third person? Omniscient, limited, or objective? Check for consistency.
+
+## What to Avoid
+The Base core team does its best to amplify builders who positively contribute to the Base ecosystem. To increase your chances of amplification on social channels, please avoid the following:
+
+- **Using Financial Terminology**: Refrain from terms indicating gains, profits, investments, high yields, etc. Avoid phrases like "lucrative opportunity."
+- **Mentioning Specific Tokens or Airdrops**: Focus on the value, gameplay, or experience instead of specific tokens, points, or airdrops.
+- **Disputable Superlative**s: Avoid using unverified superlatives like “the best” or “fastest performing.”
+- **Unapproved Partnerships**: Do not reference a “partnership” or “collaboration” unless explicitly approved by someone on the Base team.
+- **Overly Aggressive Marketing**: Avoid aggressive marketing tactics, promotions, and discounts, as they may send the wrong message within the Base ecosystem.
+- **Non-Compliant Contests or DeFi Offers**: Do not offer contests, sweepstakes, or DeFi applications without compliant terms of service.
+- **False or Misleading Information**: Ensure all information shared is accurate and truthful.
+- **Technical Jargon**: Avoid overly technical jargon or corporate language that may alienate your audience.
+- **Negative Comparisons**: Refrain from putting down other projects or competitors.
+- **Offensive Language**: Do not use offensive or explicit language in any communication.
+
 
 ## Clarity, Concision, and Flow
 
