@@ -1,159 +1,169 @@
 # Base Editorial Style Guide
 
-This is the Base Editorial Style Guide, which exists to:
+This Base Editorial Style Guide exists to:
 
-- Ensure a baseline level of quality and consistency across all media types
-- Keep all contributors on the same page about editorial standards
-- Align all communications from Base tonally
+- **Ensure a baseline level of quality and consistency** across all media types produced by the team
+- **Keep all contributors aligned** on editorial standards and expectations
+- **Create a unified voice** for all communications from Base, ensuring we remain consistent across platforms
 
 ## Why use the style guide?
 
-If you use the style guide, you'll help us tell the Base story consistently. You'll also be more likely to get amplification from the Base core team and other members of the Base ecosystem.
+- **Consistency**: Using this style guide will help maintain the same tone and approach in all communications, which helps reinforce the Base brand.
+- **Amplification**: Aligning with the guide increases the likelihood of your content being amplified by the Base core team and across various social channels.
+- **Professionalism**: Ensures high standards of quality in all written content, creating trust and credibility with the community and users.
 
 ## About Base
 
-Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly way for anyone, anywhere, to build onchain.
+Base is an Ethereum Layer 2 (L2) solution, providing a secure, low-cost, and builder-friendly platform for anyone, anywhere, to build on-chain. It aims to facilitate the transition to a fully decentralized, global on-chain economy.
+
+Base's mission is to bring a billion people on-chain, fostering innovation, creativity, and freedom through decentralized technologies. We strive to create a future where the tools of the blockchain are accessible to everyone.
+
+---
 
 ## Critical Style Conventions
 
-- **Write ‘Base’**, not BASE, Base Chain, $BASE, or Base Network
-- **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
-- **Use technical terms sparingly**, and when you do, work to explain them in full
-- **Use ETH denomination, not USD when referring to prices**, to emphasize the global economy
-- **Have your brand supersede Base** (BRAND x Base, not Base x BRAND) in text and or logos
+### 1. **Use ‘Base’ (not BASE or Base Network)**
+
+- Always refer to **Base** (capitalized as shown) rather than abbreviating it or using other terms like "Base Chain" or "$BASE". These alternatives may confuse the audience or reduce clarity.
+- Similarly, do not refer to Base as **Base Network**, as it introduces unnecessary complexity.
+
+### 2. **Spelling and Terminology:**
+
+- **‘Onchain’** (not ‘on-chain’ or ‘On Chain’). This term refers to anything that happens directly on the blockchain.
+- **Avoid overly technical jargon** or deep crypto terms. When necessary, simplify the language and use examples that clarify technical concepts.
+- **Use ‘ETH denomination’** when talking about cryptocurrency pricing or transaction costs, emphasizing the global economy rather than USD or other fiat currencies.
+
+### 3. **Highlight Builder-Centric Communication**
+
+- Frequently emphasize **builders**, creators, developers, and innovators. Base’s core purpose is to empower and support the people building the decentralized future, so always frame communications with this in mind.
+- **Be specific about how projects are building** on Base or benefiting from the ecosystem. Concrete examples help the audience understand the real-world impact of Base.
+
+### 4. **Simplify Complex Ideas with Analogies and Examples**
+
+- **Avoid technical overwhelm**. Use metaphors, analogies, or relatable examples to explain abstract concepts. For example, comparing smart contracts to automated vending machines or explaining gas fees by comparing them to transaction fees on traditional networks.
+
+---
 
 ## Writing Guidelines
 
-**Emphasize Base's vision and mission**
+### 1. **Focus on Clarity and Brevity**
 
-Base has a grand vision to bring a billion people onchain and a mission to build a global onchain economy that increases innovation, creativity, and freedom. Highlight how Base aims to make this decentralized future more accessible for everyone, everywhere.
+- Write clearly and concisely to ensure the message is digestible for both technical and non-technical audiences. 
+- Use **active voice** whenever possible. Active voice is direct and straightforward (e.g., "Base empowers builders" vs. "Builders are empowered by Base").
+- Avoid excessive **complex vocabulary**. Use **plain language** to make the content accessible to a wider audience.
 
-**Highlight progress and what’s next**
+### 2. **Be Direct but Human**
 
-When discussing Base's ongoing developments, celebrate recent milestones and accomplishments. Outline the priorities and initiatives planned for the current or upcoming period, grounding them in Base's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
+- Base’s voice should be approachable. You can be **witty** and **engaging**, but always remain clear.
+- Make sure your writing **sounds human** and relatable. Use contractions (e.g., “we’re” instead of “we are”) and keep the tone conversational but professional.
+- Avoid jargon-heavy language that can confuse readers who may not be experts in blockchain or decentralized technologies.
 
-**Focus on concrete examples over abstract concepts**
+### 3. **Emphasize Progress**
 
-Avoid excessive abstract language about "web3" or technical language around “blockchains,” etc. Ground writing in concrete examples of what Base enables: Affordable transactions, seamless user onboarding, simple developer tooling, etc.
+- Base is always evolving. Highlight **recent milestones** or updates, and outline upcoming plans. 
+- Celebrate small wins in addition to large accomplishments to show continuous movement and commitment to the long-term vision.
+  
+### 4. **Tone Should Reflect Our Optimism**
 
-**Use clear examples to illustrate concepts**
+- **Optimistic, yet realistic**: While it’s important to maintain an optimistic tone about the future of the decentralized web, also acknowledge challenges and obstacles.
+- **Appreciative and inclusive**: Always acknowledge contributions from the community, recognizing the role everyone plays in Base’s growth.
+  
+### 5. **Celebrate Community and Builders**
 
-While some technical depth is unavoidable, aim to make abstract onchain concepts accessible through clear examples and analogies. Compare new paradigms to familiar ones to build understanding. Use specifics and walk through sample user flows to demonstrate core value propositions.
+- Feature **builders, developers, and artists**—they are the heart of Base. Regularly highlight their projects, ideas, and achievements.
+- Make sure to include **user stories** or **case studies** that show how people are using Base and how it's enabling them to achieve great things.
 
-**Whenever possible, celebrate builders**
-
-Base exists to empower those building a decentralized future, and building can be defined with a wide net: Creators, artists, developers, writers, etc. Frequently highlight and celebrate the projects, people, and communities utilizing Base.
-
-**Be a bridge**
-
-Don't assume the reader is familiar with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
+---
 
 ## Tone and Voice
 
-”Although tone and voice are often used together, they are not at all the same thing. Voice is the overall **personality** of your brand and can be described in adjectives like helpful, witty, or friendly. \[…] your brand’s voice will not change. However, tone, or tone of voice, is the attitude of your writing for a particular content piece.” - Shelby Crawford
+### Voice
 
-**Voice**
+Base's voice should be consistent across all communications:
 
-- Progressive and future-thinking
-- Conversational and human
-- Direct (e.g., using "offers" over "that aims to offer")
-- Optimistic but realistic (not overly idealistic)
-- Appreciative (not prideful)
-- Witty
-- Championing of builders
-- Relatable (using cultural references familiar to the audience)
+- **Progressive** and **forward-thinking**
+- **Human** and **approachable**
+- **Direct** (use simple, straightforward language)
+- **Optimistic but grounded** (acknowledge the challenges while highlighting the possibilities)
+- **Appreciative** (don’t come off as overly boastful, but show gratitude)
+- **Relatable** (engage with the audience by connecting ideas to their everyday experiences)
 
-**Tone**
+Example of voice:
 
-- Brief and punchy, with clarity and impact
-- Avoids overly technical jargon or corporate talk
-- Acknowledges challenges directly but remains solutions-oriented
-- Not too casual, but still conversational
-- Provides unique, thought-provoking insights
-- Engages in trending topics wisely (and rarely)
-- Offers compelling reasons to return through memorable and engaging content
-- Minimal use of emojis (one at most)
+“Base is about giving builders the tools they need to change the world. Whether you're creating the next big DApp or making decentralized finance more accessible, we’re here to help you make it happen.”
 
-Here’s an example of writing that feels appropriate in both tone and voice:
+### Tone
 
-“Base is bringing a billion people onchain. To bring the world onchain, we need to create a new internet that supports a global economy. We’re making this vision a reality through a million builders actively working to create what they love. Join us and let’s build the future together.”
+Base's tone will change depending on the context and the audience, but it will always be:
 
-**More on tone and voice**
+- **Clear and concise** (no unnecessary words)
+- **Friendly but not casual** (we're approachable but professional)
+- **Engaging** (keep the reader interested, avoid monotony)
+- **Solutions-focused** (emphasize how Base solves problems and makes things better)
+- **Human-centric** (keep the community at the forefront)
+  
+Example of tone:
 
-- [Tone in Writing: A Simple Guide](https://jerryjenkins.com/tone-in-writing/) - ”**…voice is _what_ you say, and tone is _how_ you say it.**”
-- [A Word About Style, Voice, and Tone](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter3/ch3-21.html) - “When you hear an author talking inside your head, “voice” is what that author sounds like. \[…] You can develop your own voice in your writing by paying special attention to rhythm, diction, and punctuation.”
-- [Point of View](https://www.merriam-webster.com/words-at-play/point-of-view-first-second-third-person-difference) - First, second, or third person? Omniscient, limited, or objective? Check for consistency.
+- In a **community update**: "We’re thrilled to share some exciting progress — we’ve just launched new tools for developers that will make it easier to build on Base. Dive in and start creating today."
+- In a **technical blog**: "Let’s explore how Base’s modular architecture ensures scalability without compromising security."
 
-## What to Avoid
-The Base core team does its best to amplify builders who positively contribute to the Base ecosystem. To increase your chances of amplification on social channels, please avoid the following:
+### The Golden Rule for Voice and Tone
 
-- **Using Financial Terminology**: Refrain from terms indicating gains, profits, investments, high yields, etc. Avoid phrases like "lucrative opportunity."
-- **Mentioning Specific Tokens or Airdrops**: Focus on the value, gameplay, or experience instead of specific tokens, points, or airdrops.
-- **Disputable Superlative**s: Avoid using unverified superlatives like “the best” or “fastest performing.”
-- **Unapproved Partnerships**: Do not reference a “partnership” or “collaboration” unless explicitly approved by someone on the Base team.
-- **Overly Aggressive Marketing**: Avoid aggressive marketing tactics, promotions, and discounts, as they may send the wrong message within the Base ecosystem.
-- **Non-Compliant Contests or DeFi Offers**: Do not offer contests, sweepstakes, or DeFi applications without compliant terms of service.
-- **False or Misleading Information**: Ensure all information shared is accurate and truthful.
-- **Technical Jargon**: Avoid overly technical jargon or corporate language that may alienate your audience.
-- **Negative Comparisons**: Refrain from putting down other projects or competitors.
-- **Offensive Language**: Do not use offensive or explicit language in any communication.
+When writing for Base, always ask yourself:
 
+- **Does it feel like it's coming from a human at Base?**
+- **Is the message clear, simple, and solution-oriented?**
+- **Is it inclusive and empowering to the community?**
 
-## Clarity, Concision, and Flow
+---
 
-“The goal is to make your paper as simple and clear, as immediately intelligible to the reader as possible. This doesn’t mean that you should ignore subtle and sophisticated complexities in your theory – but the challenge is to **state those complexities simply and clearly**. Avoid making your subject seem more complex than necessary (for example, if something “creates habits”, it’s probably neither necessary nor helpful to say that it “exhibits a habit-formation process”).” \~ [R. Wicks](https://www.academia.edu/75129398/Stylebook_Tips_on_Organization_Writing_and_Formatting)
+## Common Writing Mistakes to Avoid
 
-- **Tips for Improving Clarity**
+### 1. **Financial Terminology and Hype**
 
-  - [Sentence Clarity](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_clarity.html) - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. _is_, _are_).
-  - [Plain Style](https://owl.purdue.edu/owl/general_writing/writing_style/plain_style%20.html) - Because we specialize in reducing complex topics into concise summaries that are digestible to the average user, Base encourages contributors to write in plain style. For example: opt for simple words like _use_ rather than _utilize_.
-  - **Passive and Active Voice** - Base prefers active voice. Sometimes [passive voice can be rhetorically effective](https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/choosing_passive_voice.html), but in most cases contributors should [change passive to active voice](https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/changing_passive_to_active_voice.html). For example:
-    - **Original:** “Experiences that are sticky, that make it easy for anyone to get started, and that offer a seamless user experience that abstracts onchain complexity as much as possible are what we’re looking for.” (passive)
-      - **Edited:** “We’re looking for experiences that make it easy for anyone to get started and offer a seamless user experience that abstracts complexity as much as possible.” (active)
+- Refrain from using language that could be construed as making financial predictions, such as **“get rich quick”** or **“high yield”**. Base focuses on empowering users and builders, not on financial gain.
+  
+### 2. **Overuse of Acronyms and Jargon**
 
-- **Tips for Improving Concision**
+- Avoid using too many abbreviations or overly technical terms that may alienate a non-technical audience. Always aim to explain terms when introducing them.
 
-  - Avoid redundancies. When in doubt, opt for two shorter sentences over one longer one. The [Hemingway App](https://hemingwayapp.com/) can point out areas for improvement.
-  - Consult the Purdue OWL page on [concision](https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html) for examples of “wordy vs. concise” sentences.
-  - Avoid phrasing that adds little useful information for the reader, such as ending sentences with “…and more.” For example:
-    - **Original:** ”Base and leading builders are hosting a global hackathon with dedicated tracks like payments, discovery, social, gaming, **and more**.
-      - **Edited:** ”Base and leading builders are hosting a global hackathon dedicated to bringing the world onchain.”
+### 3. **Superlatives and Hyperbole**
 
-- **Tips for Improving Flow**
-  - Avoid [sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html).
-  - [Vary](https://owl.purdue.edu/owl/general_writing/academic_writing/sentence_variety/index.html) sentence structure, rhythm, opening words, and length.
+- Avoid exaggerated statements such as **“world’s best”**, **“largest ever”**, or **“groundbreaking”** unless they are factually verified. Instead, focus on specific achievements.
 
-## Nuances
+### 4. **Aggressive Marketing Language**
 
-**Capitalization**
+- Do not engage in pushy or overly aggressive marketing tactics. Base should come across as **helpful**, not as a sales-driven organization. For example, avoid terms like "this is the only platform you’ll ever need."
 
-- In general, follow the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html) guidelines for capitalization.
-- For headlines, use title case, not sentence case.
-  - Example: [Onchain Summer II is Coming](https://base.mirror.xyz/HoH9cZVi8CMdvxVUNjvOzceUPVQcVZvvkf8ZbCOVOco)
+### 5. **Negative Comparisons**
 
-**Punctuation**
+- Never disparage other projects, competitors, or protocols. Base’s value should shine on its own merit, not by putting others down.
 
-- [Oxford Comma](https://thewritelife.com/is-the-oxford-comma-necessary/) - Base uses the **Oxford comma**. For example:
-  - ❌ apples, oranges and bananas (no Oxford comma) - Do not use this style.
-    - ✅ apples, oranges\*\*,\*\* and bananas (Oxford comma) - Use this style.
-- **Em Dashes** - Write em dashes as ( — ). Add spaces on both sides. For example:
-  - **Em dash:** “Facilitators accept responsibility to move groups through an agenda, ensure adherence to mutually agreed-upon process mechanics, and — if necessary — suggest alternates or additional discussion.”
-  - Consult [Merriam-Webster](https://www.merriam-webster.com/words-at-play/em-dash-en-dash-how-to-use) for general guidance on em dashes.
-- **Ampersands** - Use ampersands only in business names (e.g., “Tiffany\&Co.”) and common abbreviations such as “B\&B” or “R\&D.” Avoid using ampersands as a substitute for the word “and.”
-- **Parentheticals** - [Where to place that period](https://style.mla.org/the-placement-of-a-comma-or-period-after-a-quotation)? As per [Typos of the NYT](https://twitter.com/nyttypos/status/1599500874354954240): “When a sentence ends with a parenthetical, the sentence's period goes outside the parentheses (unless the entire sentence is parenthetical).”
-- **Colons and Semicolons** - For lists included as part of the text, use semicolons as separators when at least one of the list items contains a comma. Otherwise, use commas.
+---
 
-**Numbers, Dates, and Times**
+## Number and Punctuation Guidelines
 
-- **Basics** - Consult the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/grammar/writing_numbers.html) for basic guidelines.
-- **Numerals** - Write out numerals 0 through 9 as words: zero, one, two, three, etc.
-  - Exception: Write 1-for-1, not one-for-one.
-  - Write numerals 10 and above as Arabic numerals: 10, 59, 100, 9888, etc.
-  - Abbreviate 10,000 and above with a K instead of using a comma. For example: write 100,000 as 100K. Abbreviate 1,000,000 and above with an M. Abbreviate 1,000,000,000 and above with a B.
-- **Dates** - Write dates (e.g., in blog post titles and images) as “September **2**, 2022” (or in shortened form as "Sep. 2, 2022") rather than “September **2nd**, 2022.”
-- **Time Spans** - Write full-year ranges of time as “2009—2022” with an em-dash and no spaces.
-- **Decades** - Write out the first reference to a decade as “1960s” and abbreviate subsequent instances as “60s” (no apostrophe).
-- **Clock Times** - When referring to the time, always reference both the period of day and time zone, with the period lowercase and the time zone uppercase. Do not use a space between the numeral and period of day, and then use a space for the time zone: “7am ET”, “1:30am PT” etc. When not referencing a specific location, default to PT.
-- **Software Versioning Prefixes** - Base uses lowercase version number prefixes for software (v1, v1.5, v2.6.4, etc.) rather than uppercase (V1, V1.5, V2.6.4, etc.) While there is no fixed standard, most software versioning at a low level uses Semantic Versioning Specification, aka [semver](https://semver.org/).
+1. **Use the Oxford Comma**: Always include a comma before the final conjunction in a list (e.g., "apples, oranges, and bananas").
+   
+2. **Use Em Dashes with Spaces**: Place spaces around em dashes (—), for example: “This is an exciting update — we’ve hit a milestone — and we want you to be part of it.”
 
-This document has been remixed in part from the open-source Editorial Style Guide by [Danica Swanson](https://warpcast.com/danicaswanson) (for [Starbased](https://starbased.notion.site/Starbased-f8659abc78ad4f2095ed01bc88cca519)).
+3. **Numerals for 10 and Above**: Use numerals for numbers 10 and above, but spell out numbers one through nine.
+   - Correct: “There are 10 new developers working on Base.”
+   - Incorrect: “There are Ten new developers working on Base.”
+
+4. **Use “K” for Thousands, “M” for Millions**: For simplicity and brevity:
+   - 100K (for 100,000)
+   - 1M (for 1,000,000)
+  
+5. **Time and Date Formats**:
+   - Use both **AM/PM** and **Time Zone** (e.g., 3:00 PM EST).
+   - Write **dates** as "14 January 2025", not "January 14, 2025."
+
+---
+
+## Final Thoughts
+
+- Base’s content should always strive to **educate** and **empower** the community, rather than simply inform.
+- Each piece of content should feel like part of a larger conversation, pushing the boundaries of decentralized technology while staying grounded in real-world applications.
+
+**Follow these guidelines**, and you’ll help build a consistent, powerful, and inspiring Base brand.
