@@ -89,7 +89,7 @@ The Base core team does its best to amplify builders who positively contribute t
 
 - **Using Financial Terminology**: Refrain from terms indicating gains, profits, investments, high yields, etc. Avoid phrases like "lucrative opportunity."
 - **Mentioning Specific Tokens or Airdrops**: Focus on the value, gameplay, or experience instead of specific tokens, points, or airdrops.
-- **Disputable Superlative**s: Avoid using unverified superlatives like “the best” or “fastest performing.”
+- **Disputable Superlatives**: Avoid using unverified superlatives like “the best” or “fastest performing.”
 - **Unapproved Partnerships**: Do not reference a “partnership” or “collaboration” unless explicitly approved by someone on the Base team.
 - **Overly Aggressive Marketing**: Avoid aggressive marketing tactics, promotions, and discounts, as they may send the wrong message within the Base ecosystem.
 - **Non-Compliant Contests or DeFi Offers**: Do not offer contests, sweepstakes, or DeFi applications without compliant terms of service.
