@@ -37,6 +37,8 @@ Located in [/fonts](fonts/).
 
 ### Logos
 
+![LogoType](logo/Logotype/Digital/Base_lockup_2color.svg)
+
 ![BaseMark](logo/Basemark/Digital/Base_basemark_blue.svg)
 
 | Symbol                                            | Wordmark                                                |
